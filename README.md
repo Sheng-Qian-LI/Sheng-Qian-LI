@@ -19,8 +19,18 @@
 
 
 # 🎯GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://github.com/anuraghazra">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="Anurag's GitHub stats" style="width: 48%; height: auto;" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark" alt="GitHub Streak" style="width: 51%; height: auto;" />
+  </a>
+</div>
+
+
 
 <!--
 **Sheng-Qian-LI/Sheng-Qian-LI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

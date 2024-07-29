@@ -1,6 +1,6 @@
 # Hi I am Sam 👋  
 
-### 自介待補
+### 
 
 # 🛠️My toolbox  
 <img src="https://github.com/user-attachments/assets/c47d1a43-4516-4bf1-8ea6-fd3126a6a15a" alt="image" width="40" height="40"/>
